@@ -1,7 +1,7 @@
 
 # Welcome to my profile!
 
-Aspiring Computer Science Student at **UFAPE** and Indie **Godot** Game Developer
+🎮Aspiring Computer Science Student at **UFAPE** and Indie **Godot** Game Developer🕹️
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
